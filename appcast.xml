@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Dicta</title>
+    <description>Updates for Dicta</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.1</title>
+      <description><![CDATA[
+        <ul>
+          <li>Spoken lists: count out loud ("first… second… third…") and Dicta types a clean numbered list; softer cues become bullets.</li>
+          <li>Automatic updates: Dicta now keeps itself up to date.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 15 Jul 2026 17:47:36 -0400</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/leocreated/dicta-releases/releases/download/v1.1/Dicta-1.1.zip"
+                 sparkle:edSignature="qEwtPokoBOeWuwQyTww6bWzDpUuQ94wm/dDNWpUPIz9Sd6TgKIM52kO9PJ+46VS+amfygiW4rcclZ+22RCZPAQ=="
+                 length="5448742"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
