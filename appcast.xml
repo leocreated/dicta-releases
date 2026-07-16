@@ -5,6 +5,17 @@
     <description>Updates for Dicta</description>
     <language>en</language>
     <item>
+      <title>Version 1.6</title>
+      <pubDate>Thu, 16 Jul 2026 13:10:56 -0400</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/leocreated/dicta-releases/releases/download/v1.6/Dicta-1.6.zip"
+                 sparkle:edSignature="xAOvOzh3+CFWyVWKkYgHEIH9BaoO97npuWwZ1shmM8Gxt97IOhxQe5TJSO1ujdImFqGByRA60bVd9mvQ7Y4LDw=="
+                 length="5463350"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.5</title>
       <pubDate>Thu, 16 Jul 2026 01:22:03 -0400</pubDate>
       <sparkle:version>6</sparkle:version>
