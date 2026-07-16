@@ -7,117 +7,13 @@
     <item>
       <title>Version 2.0</title>
       <description><![CDATA[Dicta 2.0 is ready. <a href="https://github.com/leocreated/dicta-releases/releases/tag/v2.0">See what's new</a>.]]></description>
-      <pubDate>Thu, 16 Jul 2026 15:21:50 -0400</pubDate>
+      <pubDate>Thu, 16 Jul 2026 15:22:14 -0400</pubDate>
       <sparkle:version>11</sparkle:version>
       <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/leocreated/dicta-releases/releases/download/v2.0/Dicta-2.0.zip"
                  sparkle:edSignature="y8umS0p9qEOaHSxHv9jIZCOGr6p3TJtZz6a3QIxwjFT6ItT1tt9oxrM7RVk9E2HPufqj5iAJyIkhK+TI5VwjDQ=="
                  length="5550256"
-                 type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 1.9</title>
-      <pubDate>Thu, 16 Jul 2026 14:53:08 -0400</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/leocreated/dicta-releases/releases/download/v1.9/Dicta-1.9.zip"
-                 sparkle:edSignature="vqpdN7jRDrVKS/r/FKWI9MqBnBoDGppDrFpZ1Rpi9XgDtAQikKAfiAaJ4fsLGOKAeS+X+Jj0lz/Jb74NdEMhBA=="
-                 length="5516549"
-                 type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 1.8</title>
-      <pubDate>Thu, 16 Jul 2026 13:47:41 -0400</pubDate>
-      <sparkle:version>9</sparkle:version>
-      <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/leocreated/dicta-releases/releases/download/v1.8/Dicta-1.8.zip"
-                 sparkle:edSignature="MWUuYJ8TmFEsmSUt74wSveXBZtC6+p47SSd1qs78ZHVjGxRNjfGl0JLcv45hQtv7i7MPvoYIDWtHOBtv42CkBg=="
-                 length="5516942"
-                 type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 1.7</title>
-      <pubDate>Thu, 16 Jul 2026 13:23:42 -0400</pubDate>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/leocreated/dicta-releases/releases/download/v1.7/Dicta-1.7.zip"
-                 sparkle:edSignature="7lBYAIhzC6Oa1gDu3BPg0MBchfFa9YWJUYaeCrUkAmT2/ayHB1bQLV1/o9vur1kQGmNdAKQA0ZBx4sXOemQYDw=="
-                 length="5464530"
-                 type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 1.6</title>
-      <pubDate>Thu, 16 Jul 2026 13:10:56 -0400</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/leocreated/dicta-releases/releases/download/v1.6/Dicta-1.6.zip"
-                 sparkle:edSignature="xAOvOzh3+CFWyVWKkYgHEIH9BaoO97npuWwZ1shmM8Gxt97IOhxQe5TJSO1ujdImFqGByRA60bVd9mvQ7Y4LDw=="
-                 length="5463350"
-                 type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 1.5</title>
-      <pubDate>Thu, 16 Jul 2026 01:22:03 -0400</pubDate>
-      <sparkle:version>6</sparkle:version>
-      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/leocreated/dicta-releases/releases/download/v1.5/Dicta-1.5.zip"
-                 sparkle:edSignature="oCcg6WRfLhVdsGdy6y+xaxKDgumvuneJ9yyh0tVjJcuGH8GC2eYMzJSoI3Rc4bB1U73qwnYGQ8V1jVAY7uBbDA=="
-                 length="5462001"
-                 type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 1.4</title>
-      <pubDate>Thu, 16 Jul 2026 01:10:46 -0400</pubDate>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/leocreated/dicta-releases/releases/download/v1.4/Dicta-1.4.zip"
-                 sparkle:edSignature="Z1rqT3H5/IxFXY0h8zAX1dGUEu6NzKFOBpwtKwlDT/FEfbk0CSvnklJDp3OtL3HW262UhyqWJNunTL2iKQkzAA=="
-                 length="5457800"
-                 type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 1.3</title>
-      <pubDate>Thu, 16 Jul 2026 00:53:54 -0400</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/leocreated/dicta-releases/releases/download/v1.3/Dicta-1.3.zip"
-                 sparkle:edSignature="reQYVjX5Jd8brwemuWVh7sQLNseYTlMd6QQh9P4kwFZhrv7YafFcW1tyoFgwIWz/qBzJZxNQmepg56QRfHQpBA=="
-                 length="5457412"
-                 type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 1.2</title>
-      <description><![CDATA[
-        <ul>
-          <li>Smarter capitalization: dictating mid-sentence no longer drops a stray capital into the middle of a sentence. "I", acronyms, and your saved names stay capitalized.</li>
-        </ul>
-      ]]></description>
-      <pubDate>Wed, 15 Jul 2026 18:15:48 -0400</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/leocreated/dicta-releases/releases/download/v1.2/Dicta-1.2.zip"
-                 sparkle:edSignature="ry5RhlgOFWu2sROEzFM9ergV/zjy4vNcjjuXhXBv5UPKrJvYh3y/Xeinyf7QoIo/wYRyAufAxwPk6Y83gQxjCQ=="
-                 length="5451855"
-                 type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 1.1</title>
-      <pubDate>Tue, 15 Jul 2026 17:47:00 -0400</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/leocreated/dicta-releases/releases/download/v1.1/Dicta-1.1.zip"
-                 sparkle:edSignature="qEwtPokoBOeWuwQyTww6bWzDpUuQ94wm/dDNWpUPIz9Sd6TgKIM52kO9PJ+46VS+amfygiW4rcclZ+22RCZPAQ=="
-                 length="5448742"
                  type="application/octet-stream" />
     </item>
   </channel>
