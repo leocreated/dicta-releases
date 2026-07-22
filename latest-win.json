@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "notes": "Maintenance and improvements.",
-  "pub_date": "2026-07-21T02:52:06Z",
+  "pub_date": "2026-07-22T04:02:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1MrWVV1NHBldHlFZUExbXgvUjZNNStRODdMWHVqTlp3dUt0UVFkamxCSi9lRmtadm1ERnVOMXZzUXB4OTVTby9hRlZpY250OFpQUThocUQrU2pOdzlpT2FEanpkUkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjAyMzIyCWZpbGU6RGljdGFfMC4xLjJfeDY0LXNldHVwLmV4ZQpoai9hQjlBTjBmeVRaMGprcmxiSlVRSDgvYlNBZVpiTHJOZ0FieVJSSmFEY0oydTRHYU44Y0J5bTVWZStOSFFhY1I0a3UxeE5XVmpNNlVTMkpvZDNCUT09Cg==",
-      "url": "https://github.com/leocreated/dicta-releases/releases/download/win-v0.1.2/Dicta_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1MrWVV1NHBldDVSbFFmUmdIb1ZpQkUwNVg4N2VETkVMOXBSQVlWTFE0KzhwMTJrVTFVOWZUTEVkK2pGRFZQV0pLN3JORTczSndVMlZVdXJHNUt2d2pUUGZwOFE4a3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjkyOTYxCWZpbGU6RGljdGFfMC4xLjNfeDY0LXNldHVwLmV4ZQpmMTVRZk02ZGNvMnRRNmdadU9zaTVFdG9hTjNhZ2FwS1czUi85ZkZmTjBpbW85anpHODRnRldBNVE5V2JSKzZHTlgzWDQ5NGdxcTNjOGhua3NHWENBdz09Cg==",
+      "url": "https://github.com/leocreated/dicta-releases/releases/download/win-v0.1.3/Dicta_0.1.3_x64-setup.exe"
     }
   }
 }
