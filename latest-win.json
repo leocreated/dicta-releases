@@ -1,6 +1,6 @@
 {
   "version": "0.2.0",
-  "notes": "Maintenance and improvements.",
+  "notes": "What's new in 0.2.0:\n\n- Full rewrite is here. Turn it on in Settings with a Groq key and Dicta polishes your speech the same way the Mac does \u2014 and it can never answer you back or delete words you said: every rewrite is checked against what you actually spoke, and anything suspicious falls back to plain cleanup so your words always survive.\n- Your dictation lands the way you meant it. Dicta now reads the text right before your cursor: mid-sentence dictations stop getting a stray capital letter, and back-to-back dictations stop getting squished together.\n- Undo that can't eat your work. Press the undo chord and Dicta removes its last dictation only when it can prove that exact text is still there \u2014 if you typed something after, or selected text, or switched windows, it refuses instead of guessing.\n- Copy-last and a real tray menu: pause dictation, recent dictations, cleanup and language switches, all from the tray.\n- The Overview tab now shows your real stats \u2014 words, streaks, time saved \u2014 computed exactly like the Mac, so both machines agree.",
   "pub_date": "2026-08-05T02:12:38Z",
   "platforms": {
     "windows-x86_64": {
