@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="docs/readme/dicta-logo.png" alt="Dicta logo" width="96">
-
-# Dicta
+<img src="docs/readme/header.jpg" alt="Dicta — Talk instead of type." width="100%">
 
 **Hold a key, talk, and your words appear wherever you're typing.**
 
@@ -14,7 +12,7 @@
 
 <br>
 
-<img src="docs/readme/overview-900x640.png" alt="Dicta overview: words today, time saved and a weekly chart" width="720">
+<img src="docs/readme/how-it-works.jpg" alt="Hold Right Ctrl, speak, and your words appear at the cursor" width="100%">
 
 </div>
 
@@ -28,8 +26,7 @@
 - **History.** Search, copy or delete everything you've dictated.
 
 <p align="center">
-  <img src="docs/readme/history-900x640.png" alt="Dicta history with searchable dictations" width="49%">
-  <img src="docs/readme/dictionary-900x640.png" alt="Dicta dictionary with names and replacement rules" width="49%">
+  <img src="docs/readme/feature-history.jpg" alt="Dicta history: search, copy or delete everything you've dictated" width="80%">
 </p>
 
 ## Getting started
@@ -61,3 +58,7 @@ Dicta updates itself. There is nothing to reinstall.
 ## Privacy
 
 Speech recognition runs on your computer. Rewrite sends text to Groq only if you turn it on with your own key.
+
+<p align="center">
+  <img src="docs/readme/overview-hero.jpg" alt="Dicta overview: words today, time saved and a weekly chart" width="420">
+</p>
