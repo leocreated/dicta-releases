@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/readme/dicta-logo.png" alt="Dicta logo" width="96">
+
 # Dicta
 
 **Hold a key, talk, and your words appear wherever you're typing.**
