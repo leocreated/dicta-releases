@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.3",
-    "notes":  "## 0.4.3\n\n- Report a problem. Choose \"Report a problem…\" from the tray or Settings, describe what happened, and it\u0027s sent straight to the developer, with Dicta\u0027s log if you like. Your dictated words aren\u0027t in the log.\n- A smoother first run. The setup guide now opens as soon as installation finishes, in a normal-size window, shows the speech download as it happens, and lets you try hold-to-talk and hands-free one at a time.\n- Cleaner Settings. Much less small print, and the Learning page shows plain words like \"Seen 6 times\" instead of internal details.\n- Smarter voice commands. \"New line\" and \"scratch that\" no longer trigger in ordinary sentences like \"a new line of credit\" or \"scratch that off the list\", and there\u0027s a switch to turn spoken commands off.\n- A \"Graphics card only\" option in Settings, and the Shortcuts page now lists Undo last dictation and Copy last dictation.",
-    "pub_date":  "2026-09-29T05:07:34Z",
+    "version":  "0.4.4",
+    "notes":  "## 0.4.4\n\n- \"Report a problem\" now opens properly (it could show a blank, frozen window) and has moved to the left sidebar, just above Settings.",
+    "pub_date":  "2026-09-29T05:36:09Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1MrWVV1NHBldDNIWXkwR1BIZ1U1OFIyTTQ1N0hxenVkeTVvSmI5ZGZrbWdTMWJIL0EySCtrcEpYZXdpUzVBN2s5T3laV2Y0TVRxb1NISzUvSXRlamY1cG5aNkRyVndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjU4NDU0CWZpbGU6RGljdGFfMC40LjNfeDY0LXNldHVwLmV4ZQpsL0p1ckZwajhnUkNNZThPdXIwYVhvZ0JOeHdWVEl5MlBuY2ZnTGljZmY5SWVGN0hSdGwrRjNQK0hXUlRhU0lRWllCeWpOTEJRckxQQUF2R3hvTnRBQT09Cg==",
-                                             "url":  "https://github.com/leocreated/dicta-releases/releases/download/win-v0.4.3/Dicta_0.4.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1MrWVV1NHBldDRMd3ZZMzYvNTU3STN1R1dmOWp0bnpmT1FUclc0Ym95cHFWb2JXdEpRRVNPNTR4YXdmWVduZGNaTVRjekJHd1UrYXQvbEQ4UFZUdHVJQWlnL24zc3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjYwMTY5CWZpbGU6RGljdGFfMC40LjRfeDY0LXNldHVwLmV4ZQpadHRLOGpZSkVYV3RMblJYTnNSMUM1Skw4MjBvOWszNkFyL2lhOUtIM2drMnFGYkNWSStoV1VJYTBVRVlOSEdSMDEvZkF5aE5aVHlqU2FkZi9PaDlCUT09Cg==",
+                                             "url":  "https://github.com/leocreated/dicta-releases/releases/download/win-v0.4.4/Dicta_0.4.4_x64-setup.exe"
                                          }
                   }
 }
