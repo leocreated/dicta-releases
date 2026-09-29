@@ -4,7 +4,7 @@
 
 **Hold a key, talk, and your words appear wherever you're typing.**
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/leocreated/dicta-releases/releases/download/win-v0.3.1/Dicta_0.3.1_x64-setup.exe)
+[![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/leocreated/dicta-releases/releases/download/win-v0.4.2/Dicta_0.4.2_x64-setup.exe)
 &nbsp;
 [![Download for Mac](https://img.shields.io/badge/Download%20for-Mac-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/leocreated/dicta-releases/releases/download/v2.3.1/Dicta.dmg)
 
