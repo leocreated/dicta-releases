@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.8",
-    "notes":  "## 0.4.8\n\n- Themes. Pick a look in Settings \u003e Appearance: Rail (the new default), Paper, Classic, Contrast, Focus, Glass, Ledger, Mono, Nord, Soft and Terminal. Settings, the Listening pill, the setup guide, Report a problem and the tray menu all follow it.\n- A new Settings home with your push-to-talk key, a live microphone level and a cleanup preview, plus More settings for everything else.\n- History shows which app each new dictation went into, and you can play back, copy or delete it.\n- Snippets and word rules have new editors.",
-    "pub_date":  "2026-10-02T07:56:15Z",
+    "version":  "0.4.9",
+    "notes":  "## 0.4.9\n\n- Themes match their designs more closely: Nord gets a two-pane History and a smooth chart, Terminal its command-style labels, and every theme shows shortcut keys and times the way it was designed.\n- Acronyms stay together. \"POV\" no longer comes out as \"Po V\" (also works for words you add to your Dictionary).\n- Faster on PCs without an NVIDIA graphics card, and a few small fixes in Settings and History.",
+    "pub_date":  "2026-10-02T18:36:22Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1MrWVV1NHBldDFCNTZVWWRPY0RsSVVnQ1FHeHNGOGlBK05RNWUxQVN1MXA2UXlRMENuZWQ4a2JiRXdWYnA2MEdac01xQ0pNSWdhZHZaLzFNWnBsQnhWMFRiZW1jc1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTI3Nzc1CWZpbGU6RGljdGFfMC40LjhfeDY0LXNldHVwLmV4ZQpaWEVQdXVic2xvOHlNR1NONzFUSTY2cjRrRnQ5VEF5cDF1bGpxZTlxM3pRVUlYNXBWbHJIVGtaQnBsMGxvQTRieWtyYkdIVWFMOHJiak1lMDYyeGNCdz09Cg==",
-                                             "url":  "https://github.com/leocreated/dicta-releases/releases/download/win-v0.4.8/Dicta_0.4.8_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1MrWVV1NHBldDRKZUs3eG5oZlBibVVJYkhEalVZdk5QL0hrWGh3NVhHcjRVdDZpYjBsczZSR1NIUGhuSWVhblFjN3c1S1QrS0FCaFZzdk9xejAzMnF6U283YjZiNHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTY2MTgyCWZpbGU6RGljdGFfMC40LjlfeDY0LXNldHVwLmV4ZQp0OUxGc3B5MElzU0cxMXQyc1l4MFZDZWZZdE92ZTVMd2lNaTNFVXNUalArTzRsWEozZEJlZVN6dElqdDdCMFVUUHYxMXNSMm96SlY3Qmt6aVBrK2NEZz09Cg==",
+                                             "url":  "https://github.com/leocreated/dicta-releases/releases/download/win-v0.4.9/Dicta_0.4.9_x64-setup.exe"
                                          }
                   }
 }
