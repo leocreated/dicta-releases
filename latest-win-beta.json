@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.7",
-    "notes":  "## 0.4.7\n\n- Top apps on the Overview page now show each app\u0027s icon.\n- Cleaner Rewrite text. Plain punctuation (no curly quotes or stray semicolons), spoken asides in brackets, your own casual words kept, \"um\" and \"uh\" removed, and quick corrections like \"Claude, sorry, ChatGPT\" now keep only the fix.\n- A Licences page in Settings credits the speech models and the open-source software Dicta uses.",
-    "pub_date":  "2026-10-02T03:10:10Z",
+    "version":  "0.4.8",
+    "notes":  "## 0.4.8\n\n- Themes. Pick a look in Settings \u003e Appearance: Rail (the new default), Paper, Classic, Contrast, Focus, Glass, Ledger, Mono, Nord, Soft and Terminal. Settings, the Listening pill, the setup guide, Report a problem and the tray menu all follow it.\n- A new Settings home with your push-to-talk key, a live microphone level and a cleanup preview, plus More settings for everything else.\n- History shows which app each new dictation went into, and you can play back, copy or delete it.\n- Snippets and word rules have new editors.",
+    "pub_date":  "2026-10-02T07:56:15Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1MrWVV1NHBldDlpdjgreFpEdU96aFgrdlhMRGVBa0ZERElPbjk4S2dMRmNIQ0kydUd2RzJuZVRRT1BOZXhvTkFyeU5ZM1hsQXo5RDcrR2d6VVZPNktYYUFPUzdaVXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTEwNjEwCWZpbGU6RGljdGFfMC40LjdfeDY0LXNldHVwLmV4ZQpoSStOazRUelFKUDBna2dZTDlWaVg2OXJQaVZkQmM4R0h5MUpyM2J2Skl0S1RNYVZPbS8rdXZ3MDVRaDRLaU1Vb2ZvejBiQ3g1MXY3bGJlZWMwckZEZz09Cg==",
-                                             "url":  "https://github.com/leocreated/dicta-releases/releases/download/win-v0.4.7/Dicta_0.4.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1MrWVV1NHBldDFCNTZVWWRPY0RsSVVnQ1FHeHNGOGlBK05RNWUxQVN1MXA2UXlRMENuZWQ4a2JiRXdWYnA2MEdac01xQ0pNSWdhZHZaLzFNWnBsQnhWMFRiZW1jc1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTI3Nzc1CWZpbGU6RGljdGFfMC40LjhfeDY0LXNldHVwLmV4ZQpaWEVQdXVic2xvOHlNR1NONzFUSTY2cjRrRnQ5VEF5cDF1bGpxZTlxM3pRVUlYNXBWbHJIVGtaQnBsMGxvQTRieWtyYkdIVWFMOHJiak1lMDYyeGNCdz09Cg==",
+                                             "url":  "https://github.com/leocreated/dicta-releases/releases/download/win-v0.4.8/Dicta_0.4.8_x64-setup.exe"
                                          }
                   }
 }
