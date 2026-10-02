@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.6",
-    "notes":  "## 0.4.6\n\n- Faster again. Stopping a dictation no longer waits for Dicta to save its backup recording, which had added most of a second for people with many saved recordings. Old recordings are now cleaned up every hour, not just at startup.\n- No more lowercase starts. In some Chrome and Discord text boxes, dictations could begin with a stray space and a lowercase letter.\n- The Listening pill stays put. Pressing Right Ctrl as part of a shortcut (like Ctrl+C) no longer ends hands-free dictation, and the pill no longer disappears while you\u0027re talking.\n- A long press no longer stops hands-free dictation: tap to stop, or choose Stop Dictation from the tray.\n- Rewrite accepts more good edits: fixing a misheard name or \"wanna\" next to a \"not\", and amounts like \"five grand\".",
-    "pub_date":  "2026-10-01T16:00:28Z",
+    "version":  "0.4.7",
+    "notes":  "## 0.4.7\n\n- Top apps on the Overview page now show each app\u0027s icon.\n- Cleaner Rewrite text. Plain punctuation (no curly quotes or stray semicolons), spoken asides in brackets, your own casual words kept, \"um\" and \"uh\" removed, and quick corrections like \"Claude, sorry, ChatGPT\" now keep only the fix.\n- A Licences page in Settings credits the speech models and the open-source software Dicta uses.",
+    "pub_date":  "2026-10-02T03:10:10Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1MrWVV1NHBldDhaUnR6TVlTYjI2L0cvL2Z5QzZ5NTdXVWNoZGtZS01KbmFMR0YzUWs4L1lVYUlMK0hkZnhBeDd3THRDK0FTWHllQUdYWGF1OWVhR3d6VHV6SkU0cmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODcwNDI3CWZpbGU6RGljdGFfMC40LjZfeDY0LXNldHVwLmV4ZQptdHM4dWd3cWxMTkhwUUlyU1BBTlZiUE5LOGJkY0NlaU1jOFFVTmZBRTZmRGd2SlVoSUluemp4Zm1wWmxmT0hVYnllOThCeHFvVndwOWlubnVXeHJBUT09Cg==",
-                                             "url":  "https://github.com/leocreated/dicta-releases/releases/download/win-v0.4.6/Dicta_0.4.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1MrWVV1NHBldDlpdjgreFpEdU96aFgrdlhMRGVBa0ZERElPbjk4S2dMRmNIQ0kydUd2RzJuZVRRT1BOZXhvTkFyeU5ZM1hsQXo5RDcrR2d6VVZPNktYYUFPUzdaVXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTEwNjEwCWZpbGU6RGljdGFfMC40LjdfeDY0LXNldHVwLmV4ZQpoSStOazRUelFKUDBna2dZTDlWaVg2OXJQaVZkQmM4R0h5MUpyM2J2Skl0S1RNYVZPbS8rdXZ3MDVRaDRLaU1Vb2ZvejBiQ3g1MXY3bGJlZWMwckZEZz09Cg==",
+                                             "url":  "https://github.com/leocreated/dicta-releases/releases/download/win-v0.4.7/Dicta_0.4.7_x64-setup.exe"
                                          }
                   }
 }
