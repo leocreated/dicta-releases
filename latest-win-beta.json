@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.9",
-    "notes":  "## 0.4.9\n\n- Themes match their designs more closely: Nord gets a two-pane History and a smooth chart, Terminal its command-style labels, and every theme shows shortcut keys and times the way it was designed.\n- Acronyms stay together. \"POV\" no longer comes out as \"Po V\" (also works for words you add to your Dictionary).\n- Faster on PCs without an NVIDIA graphics card, and a few small fixes in Settings and History.",
-    "pub_date":  "2026-10-02T18:36:22Z",
+    "version":  "0.4.10",
+    "notes":  "## 0.4.10\n\n- Settings: back arrows on every sub-page (Alt+Left works too), More settings always opens at the top, Style by app can be collapsed and shows each app\u0027s icon and name, and switching themes fades smoothly.\n- Meetings (beta, off by default): turn it on in More settings \u003e Meetings, then start a meeting from the tray to get a live transcript of you and the call. Summaries come next.\n- \"Asa P.\" stays a name instead of becoming \"ASAP\".\n- The installer now downloads the speech model while it installs (and, on a new install on an NVIDIA PC, the graphics card pack), with progress on its Installing page, so Dicta is ready to dictate when the setup guide opens. If you are offline or the connection is slow, the install still finishes (after at most 15 minutes) and Dicta downloads the model when it opens, as before. Updates and reinstalls skip anything already on your PC, and updates never start a large graphics card download.",
+    "pub_date":  "2026-10-02T21:53:34Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1MrWVV1NHBldDRKZUs3eG5oZlBibVVJYkhEalVZdk5QL0hrWGh3NVhHcjRVdDZpYjBsczZSR1NIUGhuSWVhblFjN3c1S1QrS0FCaFZzdk9xejAzMnF6U283YjZiNHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTY2MTgyCWZpbGU6RGljdGFfMC40LjlfeDY0LXNldHVwLmV4ZQp0OUxGc3B5MElzU0cxMXQyc1l4MFZDZWZZdE92ZTVMd2lNaTNFVXNUalArTzRsWEozZEJlZVN6dElqdDdCMFVUUHYxMXNSMm96SlY3Qmt6aVBrK2NEZz09Cg==",
-                                             "url":  "https://github.com/leocreated/dicta-releases/releases/download/win-v0.4.9/Dicta_0.4.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1MrWVV1NHBldDdQWWFMSkRBc1RUK0dydmFnNTF3WUxMRDgzaE5UclNkOVI2bVd0TE5uWGZtRTVYOUtGd25IN0luTkU0UW1VRlJDaVlzTUdvMVZoZGRFSmFxYU9EbXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTc4MDEzCWZpbGU6RGljdGFfMC40LjEwX3g2NC1zZXR1cC5leGUKZ2gvNmMwOGUwTEM4anNRNGdZTWZGMHpENHJMOWlCR3B1Y1A4YzNXT0VleXR5alMrVXNQTWdJb2JQVGp3RWo0R3lqd0tIL3VZcDg2Y1k5Z1lIMlNXQ1E9PQo=",
+                                             "url":  "https://github.com/leocreated/dicta-releases/releases/download/win-v0.4.10/Dicta_0.4.10_x64-setup.exe"
                                          }
                   }
 }
