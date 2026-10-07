@@ -1,11 +1,11 @@
 {
-    "version":  "0.5.1",
-    "notes":  "## 0.5.1\n\n- Meetings now record the call wherever it plays. Before, Dicta only heard the Windows default output, so calls played on another device (a headset picked in Discord, or a GoXLR\u0027s Chat channel) were missed. A new Call audio setting in Meetings lets you pick Call apps (the default), All outputs, Windows default, or one device.\n- Call apps records only your call apps (Discord, Zoom, Teams, Slack, Webex, WhatsApp, Telegram, Signal, Skype and a few more) and your browser (for Google Meet), on whichever output they play, so game audio and music stay out of your notes and a virtual mixer can\u0027t record the call twice. If none of these apps is running or can be recorded, or your Windows is older than Windows 10 2004, Dicta records all outputs instead. If none of them has been heard a minute after recording starts, Dicta also records all outputs until one is.\n- A call audio device that keeps failing right after it opens is now retried less often, and Dicta switches to all outputs and warns you instead of retrying it forever. A device that keeps dropping out no longer shows a notice every time.",
-    "pub_date":  "2026-10-06T20:03:23Z",
+    "version":  "0.5.2",
+    "notes":  "## 0.5.2\n\n- New setting: No capitals or punctuation. Turn it on in Settings and Dicta types everything in lowercase with no periods, commas or question marks. With Spoken commands on, punctuation you say out loud (\"question mark\", \"comma\") still appears. Numbers, times, links, emails and anything in backticks stay as they are, but numbered list markers lose their dot (\"1. milk\" becomes \"1 milk\").",
+    "pub_date":  "2026-10-07T00:01:10Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1MrWVV1NHBldDNhSlBsak5GYU5od3ZOUHBTMHAxaGVhSlkvTEtJUU43NzllYkxKQW9ENXdtVy8vYmVrc0hmNFZ1MVBiSU9wS05qL3VKMUl6Y2dWYlNNWE9hYkFFU2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzE3MDAzCWZpbGU6RGljdGFfMC41LjFfeDY0LXNldHVwLmV4ZQo0MUJhZjlnTzNrbzZuaTZBYW1kRkRRd043Z1lUUm5QVElLczVneDdROWFDQVRQVmxuM0ZkalFjV0MybWtaL2FvNVZYRUJmQjBSc2lMSS9Rb1Q2MUZDUT09Cg==",
-                                             "url":  "https://github.com/leocreated/dicta-releases/releases/download/win-v0.5.1/Dicta_0.5.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1MrWVV1NHBldDFGZWIwKzFEemNFTEE4b2E5ZUc5NzZwclFUN2RxM1FFNGZMNDkvcnJpQUhldTA0T1o1dVJwWnRNZFBibzN2RlRzK3NzRndIQk93dW5UZmg5cm0wUndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzMxMjcwCWZpbGU6RGljdGFfMC41LjJfeDY0LXNldHVwLmV4ZQpJdk5Lek1MZnF4SXduL0didXhMV0tPV0VlVE9rbkNic3dmT0xmaFhMckIwcUlCbkg1bGtuQy9MN1NVYUJ6K05mM290K2Q3R21lSk82QXdLKzFHQ2hEdz09Cg==",
+                                             "url":  "https://github.com/leocreated/dicta-releases/releases/download/win-v0.5.2/Dicta_0.5.2_x64-setup.exe"
                                          }
                   }
 }
