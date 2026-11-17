@@ -5,6 +5,19 @@
     <description>Updates for Dicta</description>
     <language>en</language>
     <item>
+      <title>Version 2.7 (Beta)</title>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[Dicta 2.7 beta is ready. <a href="https://github.com/leocreated/dicta-releases/releases/tag/mac-v2.7">See what's new</a>.]]></description>
+      <pubDate>Tue, 17 Nov 2026 01:30:38 -0500</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/leocreated/dicta-releases/releases/download/mac-v2.7/Dicta-2.7.zip"
+                 sparkle:edSignature="JzX+Ofb+Z/9cBAex3SabDg1sXb1WBQWUxWJw8g4VdpLBJ46+BntQzPSgpu46jecQViMbezxY/pSNYyO0fN8DCw=="
+                 length="10229086"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.6 (Beta)</title>
       <sparkle:channel>beta</sparkle:channel>
       <description><![CDATA[Dicta 2.6 beta is ready. <a href="https://github.com/leocreated/dicta-releases/releases/tag/mac-v2.6">See what's new</a>.]]></description>
