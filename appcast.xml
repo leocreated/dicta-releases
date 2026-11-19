@@ -18,9 +18,8 @@
                  type="application/octet-stream" />
     </item>
     <item>
-      <title>Version 2.6 (Beta)</title>
-      <sparkle:channel>beta</sparkle:channel>
-      <description><![CDATA[Dicta 2.6 beta is ready. <a href="https://github.com/leocreated/dicta-releases/releases/tag/mac-v2.6">See what's new</a>.]]></description>
+      <title>Version 2.6</title>
+      <description><![CDATA[Dicta 2.6 is ready. <a href="https://github.com/leocreated/dicta-releases/releases/tag/mac-v2.6">See what's new</a>.]]></description>
       <pubDate>Wed, 11 Nov 2026 12:57:51 -0500</pubDate>
       <sparkle:version>19</sparkle:version>
       <sparkle:shortVersionString>2.6</sparkle:shortVersionString>

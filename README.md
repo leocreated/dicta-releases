@@ -6,7 +6,7 @@
 
 [![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/leocreated/dicta-releases/releases/download/win-v0.5.9/Dicta_0.5.9_x64-setup.exe)
 &nbsp;
-[![Download for Mac](https://img.shields.io/badge/Download%20for-Mac-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/leocreated/dicta-releases/releases/download/v2.3.1/Dicta.dmg)
+[![Download for Mac](https://img.shields.io/badge/Download%20for-Mac-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/leocreated/dicta-releases/releases/download/mac-v2.6/Dicta.dmg)
 
 <sub>Windows 10/11 (64-bit) &nbsp;·&nbsp; macOS 26 (Tahoe) or newer &nbsp;·&nbsp; <a href="https://github.com/leocreated/dicta-releases/releases">All releases</a></sub>
 
